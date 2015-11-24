@@ -279,7 +279,7 @@ $(function() {
     el: '#map-canvas',
     lat: initLatitude,
     lng: initLongitude,
-    zoom: 16,
+    zoom: 12,
     scrollwheel: false
   });
   map.addMarker({
